@@ -1,0 +1,7 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+}
