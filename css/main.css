@@ -6,6 +6,10 @@ table, th, td {
   border: 1px solid #ccc;
 }
 
+td {
+  height: 10rem;
+}
+
 .rockets {
   border: 1px solid #666;
   border-radius: .5em;
